@@ -1,0 +1,5 @@
+fastapi     # fastapi → backend API framework
+uvicorn     # uvicorn → ASGI server to run FastAPI
+pymupdf     # pymupdf → extract text from PDF resumes
+sentence-transformers   # sentence-transformers → generate embeddings using transformer models
+spacy
